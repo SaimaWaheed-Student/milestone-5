@@ -80,4 +80,4 @@ copyBtn.addEventListener('click', function () {
   }, function () {
     alert('Failed to copy link');
   });
-});
+})
